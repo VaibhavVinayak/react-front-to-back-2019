@@ -100,7 +100,7 @@ class User extends Component {
             </div>
             <div className="badge badge-dark">Public Gists: {public_gists}</div>
           </div>
-          <Repos repos={this.props.repos} />
+          <Repos repos={repos} />
         </Fragment>
       );
   }
