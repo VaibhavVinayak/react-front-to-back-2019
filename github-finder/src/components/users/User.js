@@ -32,7 +32,7 @@ class User extends Component {
       public_gists,
       hireable
     } = this.props.user;
-    const { loading } = this.props;
+    const { repos, loading } = this.props;
     if (loading) return <Spinner />;
     else
       return (

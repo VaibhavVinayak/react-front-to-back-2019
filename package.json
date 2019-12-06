@@ -1,7 +1,18 @@
 {
   "name": "react-front-to-back-2019",
+  "description": "code walkthrough of course by brad traversy",
   "version": "1.0.0",
   "dependencies": {
     "prettier": "^1.19.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavVinayak/react-front-to-back-2019.git"
+  },
+  "license": "ISC",
+  "author": "vaibhav",
+  "bugs": {
+    "url": "https://github.com/VaibhavVinayak/react-front-to-back-2019/issues"
+  },
+  "homepage": "https://github.com/VaibhavVinayak/react-front-to-back-2019#readme"
 }
