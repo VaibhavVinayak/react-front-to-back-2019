@@ -1,0 +1,7 @@
+{
+  "name": "react-front-to-back-2019",
+  "version": "1.0.0",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
