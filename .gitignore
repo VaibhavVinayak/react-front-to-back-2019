@@ -1,7 +1,7 @@
-/.idea/
-/node_modules/
-/github-finder/build/
-/github-finder/node_modules/
-/github-finder/.netlify
+node_modules/
+github-finder/build/
+github-finder/node_modules/
+github-finder/.netlify
 
-/contact-keeper/node_modules/
+contact-keeper/client/node_modules/
+contact-keeper/node_modules/
