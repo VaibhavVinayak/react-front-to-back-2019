@@ -4,7 +4,10 @@
   "description": "Contact manager app",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "server": "nodemon server.js",
+    "client": "cd client && npm start",
+    "clientinstall": "cd client && npm i",
+    "start": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
